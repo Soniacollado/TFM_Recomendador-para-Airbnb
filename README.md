@@ -1,0 +1,2 @@
+# TFM_Recomendador-para-Airbnb
+Se ha creado un recomendador para Airbnb donde se generará una mayor afluencia de traáfico y mayores ratios de conversión. La creación es a través de un desplegable que generará unas ciudades según las características de los usuarios y esas ciudades darán información mediante  la división de distritos de la ciudad, datos sobre los tipos de alojamientos, precios, crimen y ocio de la zona. 
